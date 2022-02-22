@@ -82,7 +82,7 @@ public class OptionMenu extends Account{
 		  public void getChecking()
 		  {
 			  System.out.println("Checkeing Account:");
-			  System.out.println("Type 1: VIEW Balance");
+			  System.out.println("Type 1: View Balance");
 			  System.out.println(" Type 2:Withdraw money	");
 			  System.out.println(" Type 3: Depostie Money	");
 			  System.out.println(" Type 4 Exit	");
